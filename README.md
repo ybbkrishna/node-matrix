@@ -1,6 +1,5 @@
 # node-matrix
 ===========
-
 Yet another Matrix library for nodeJS
 
 ##TODO:
