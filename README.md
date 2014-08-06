@@ -4,13 +4,13 @@ Yet another Matrix library for nodeJS
 
 ###TODO:
 
-####Object Manipulation	
-  *constructors 
-  *set elements 
-  *get elements 
-  *copy 
-  *clone
-####Elementary Operations	
+#### 1.)Object Manipulation	
+  * constructors 
+  * set elements 
+  * get elements 
+  * copy 
+  * clone
+#### 2.)Elementary Operations	
   *addition 
   *subtraction 
   *multiplication 
@@ -20,17 +20,17 @@ Yet another Matrix library for nodeJS
   *unary minus 
   *transpose 
   *norm
-####Decompositions	
+#### 3.)Decompositions	
   *Cholesky 
   *LU 
   *QR 
   *SVD 
   *symmetric eigenvalue 
   *nonsymmetric eigenvalue
-####Equation Solution	
+#### 4.)Equation Solution	
   *nonsingular systems 
   *least squares
-####Derived Quantities	
+#### 5.)Derived Quantities	
   *condition number 
   *determinant 
   *rank 
