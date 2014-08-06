@@ -21,18 +21,18 @@ Yet another Matrix library for nodeJS
   * transpose 
   * norm
 3. Decompositions	
-  *Cholesky 
-  *LU 
-  *QR 
-  *SVD 
-  *symmetric eigenvalue 
-  *nonsymmetric eigenvalue
+  * Cholesky 
+  * LU 
+  * QR 
+  * SVD 
+  * symmetric eigenvalue 
+  * nonsymmetric eigenvalue
 4. Equation Solution	
-  *nonsingular systems 
-  *least squares
+  * nonsingular systems 
+  * least squares
 5. Derived Quantities	
-  *condition number 
-  *determinant 
-  *rank 
-  *inverse 
-  *pseudoinverse
+  * condition number 
+  * determinant 
+  * rank 
+  * inverse 
+  * pseudoinverse
