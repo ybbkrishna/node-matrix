@@ -10,16 +10,16 @@ Yet another Matrix library for nodeJS
   * get elements 
   * copy 
   * clone
-#### 2. Elementary Operations	
-  *addition 
-  *subtraction 
-  *multiplication 
-  *scalar multiplication 
-  *element-wise multiplication 
-  *element-wise division 
-  *unary minus 
-  *transpose 
-  *norm
+2. #### Elementary Operations	
+  * addition 
+  * subtraction 
+  * multiplication 
+  * scalar multiplication 
+  * element-wise multiplication 
+  * element-wise division 
+  * unary minus 
+  * transpose 
+  * norm
 #### 3. Decompositions	
   *Cholesky 
   *LU 
